@@ -1,0 +1,56 @@
+Question ID,Title,Status,Date,Language,Runtime,Memory,Code File
+629,K Inverse Pairs Array,Accepted,2026-11-19 11.03.19,python3,223 ms,19.3 MB,2026-11-19 11.03.19 - Accepted - runtime 223ms - memory 19.3MB.py
+629,K Inverse Pairs Array,Accepted,2026-11-19 10.49.47,python3,222 ms,19.4 MB,2026-11-19 10.49.47 - Accepted - runtime 222ms - memory 19.4MB.py
+629,K Inverse Pairs Array,Accepted,2026-11-19 10.47.52,python3,244 ms,19.3 MB,2026-11-19 10.47.52 - Accepted - runtime 244ms - memory 19.3MB.py
+242,Valid Anagram,Accepted,2026-11-18 14.27.16,python3,19 ms,20.1 MB,2026-11-18 14.27.16 - Accepted - runtime 19ms - memory 20.1MB.py
+224,Basic Calculator,Accepted,2026-11-18 09.55.42,python3,32 ms,20 MB,2026-11-18 09.55.42 - Accepted - runtime 32ms - memory 20MB.py
+54,Spiral Matrix,Accepted,2026-11-17 14.27.59,python3,0 ms,19.3 MB,2026-11-17 14.27.59 - Accepted - runtime 0ms - memory 19.3MB.py
+35,Search Insert Position,Accepted,2026-11-17 11.18.41,python3,0 ms,19.8 MB,2026-11-17 11.18.41 - Accepted - runtime 0ms - memory 19.8MB.py
+1570,Final Prices With a Special Discount in a Shop,Accepted,2026-11-17 11.14.57,python3,3 ms,19.2 MB,2026-11-17 11.14.57 - Accepted - runtime 3ms - memory 19.2MB.py
+2373,Apply Discount to Prices,Accepted,2026-11-17 09.49.14,python3,55 ms,21.9 MB,2026-11-17 09.49.14 - Accepted - runtime 55ms - memory 21.9MB.py
+2361,Calculate Digit Sum of a String,Accepted,2026-11-17 09.22.16,python3,1 ms,19 MB,2026-11-17 09.22.16 - Accepted - runtime 1ms - memory 19MB.py
+101,Symmetric Tree,Accepted,2026-11-16 14.50.03,python3,0 ms,19.3 MB,2026-11-16 14.50.03 - Accepted - runtime 0ms - memory 19.3MB.py
+240,Search a 2D Matrix II,Accepted,2026-11-16 14.37.42,python3,125 ms,25.5 MB,2026-11-16 14.37.42 - Accepted - runtime 125ms - memory 25.5MB.py
+95,Unique Binary Search Trees II,Accepted,2026-11-16 14.36.03,python3,3 ms,20.3 MB,2026-11-16 14.36.03 - Accepted - runtime 3ms - memory 20.3MB.py
+98,Validate Binary Search Tree,Accepted,2026-11-16 14.24.14,python3,0 ms,21 MB,2026-11-16 14.24.14 - Accepted - runtime 0ms - memory 21MB.py
+96,Unique Binary Search Trees,Accepted,2026-11-16 14.07.05,python3,1 ms,19.2 MB,2026-11-16 14.07.05 - Accepted - runtime 1ms - memory 19.2MB.py
+908,Middle of the Linked List,Accepted,2026-11-16 10.57.20,python3,0 ms,19.1 MB,2026-11-16 10.57.20 - Accepted - runtime 0ms - memory 19.1MB.py
+206,Reverse Linked List,Accepted,2026-11-16 10.53.23,python3,0 ms,20.5 MB,2026-11-16 10.53.23 - Accepted - runtime 0ms - memory 20.5MB.py
+206,Reverse Linked List,Accepted,2026-11-16 10.52.32,python3,0 ms,20.4 MB,2026-11-16 10.52.32 - Accepted - runtime 0ms - memory 20.4MB.py
+105,Construct Binary Tree from Preorder and Inorder Traversal,Accepted,2026-11-13 14.23.57,python3,105 ms,90.7 MB,2026-11-13 14.23.57 - Accepted - runtime 105ms - memory 90.7MB.py
+1543,Simplified Fractions,Accepted,2026-11-12 14.37.06,python3,154 ms,19.1 MB,2026-11-12 14.37.06 - Accepted - runtime 154ms - memory 19.1MB.py
+120,Triangle,Accepted,2026-11-12 14.28.43,python3,1 ms,19.9 MB,2026-11-12 14.28.43 - Accepted - runtime 1ms - memory 19.9MB.py
+136,Single Number,Accepted,2026-11-12 11.11.29,python3,1 ms,21.2 MB,2026-11-12 11.11.29 - Accepted - runtime 1ms - memory 21.2MB.py
+838,Design Linked List,Accepted,2026-11-11 13.43.18,python3,63 ms,20.1 MB,2026-11-11 13.43.18 - Accepted - runtime 63ms - memory 20.1MB.py
+21,Merge Two Sorted Lists,Accepted,2026-11-11 12.17.59,python3,0 ms,19.3 MB,2026-11-11 12.17.59 - Accepted - runtime 0ms - memory 19.3MB.py
+141,Linked List Cycle,Accepted,2026-11-11 12.10.18,python3,54 ms,22.4 MB,2026-11-11 12.10.18 - Accepted - runtime 54ms - memory 22.4MB.py
+71,Simplify Path,Accepted,2026-11-10 14.43.29,python3,0 ms,19.3 MB,2026-11-10 14.43.29 - Accepted - runtime 0ms - memory 19.3MB.py
+874,Backspace String Compare,Accepted,2026-11-10 14.28.26,python3,0 ms,19.3 MB,2026-11-10 14.28.26 - Accepted - runtime 0ms - memory 19.3MB.py
+232,Implement Queue using Stacks,Accepted,2026-11-10 14.26.28,python3,0 ms,19.1 MB,2026-11-10 14.26.28 - Accepted - runtime 0ms - memory 19.1MB.py
+9,Palindrome Number,Accepted,2026-11-10 14.23.25,python3,6 ms,19.2 MB,2026-11-10 14.23.25 - Accepted - runtime 6ms - memory 19.2MB.py
+5,Longest Palindromic Substring,Accepted,2026-11-10 14.18.02,python3,319 ms,19.2 MB,2026-11-10 14.18.02 - Accepted - runtime 319ms - memory 19.2MB.py
+2,Add Two Numbers,Accepted,2026-11-10 09.28.52,python3,2 ms,19.2 MB,2026-11-10 09.28.52 - Accepted - runtime 2ms - memory 19.2MB.py
+4,Median of Two Sorted Arrays,Accepted,2026-10-18 22.27.53,python3,3 ms,19.5 MB,2026-10-18 22.27.53 - Accepted - runtime 3ms - memory 19.5MB.py
+153,Find Minimum in Rotated Sorted Array,Accepted,2026-10-18 22.26.25,python3,0 ms,19.1 MB,2026-10-18 22.26.25 - Accepted - runtime 0ms - memory 19.1MB.py
+33,Search in Rotated Sorted Array,Accepted,2026-10-18 22.25.00,python3,0 ms,19.3 MB,2026-10-18 22.25.00 - Accepted - runtime 0ms - memory 19.3MB.py
+792,Binary Search,Accepted,2026-10-18 22.23.48,python3,0 ms,20.5 MB,2026-10-18 22.23.48 - Accepted - runtime 0ms - memory 20.5MB.py
+84,Largest Rectangle in Histogram,Accepted,2026-10-18 22.23.00,python3,112 ms,36.6 MB,2026-10-18 22.23.00 - Accepted - runtime 112ms - memory 36.6MB.py
+739,Daily Temperatures,Accepted,2026-10-18 22.21.49,python3,92 ms,28.7 MB,2026-10-18 22.21.49 - Accepted - runtime 92ms - memory 28.7MB.py
+155,Min Stack,Accepted,2026-10-18 22.20.44,python3,397 ms,32.8 MB,2026-10-18 22.20.44 - Accepted - runtime 397ms - memory 32.8MB.py
+20,Valid Parentheses,Accepted,2026-10-18 22.18.47,python3,0 ms,19.2 MB,2026-10-18 22.18.47 - Accepted - runtime 0ms - memory 19.2MB.py
+76,Minimum Window Substring,Accepted,2026-10-18 22.17.31,python3,126 ms,19.7 MB,2026-10-18 22.17.31 - Accepted - runtime 126ms - memory 19.7MB.py
+3,Longest Substring Without Repeating Characters,Accepted,2026-10-17 08.55.21,python3,221 ms,20.1 MB,2026-10-17 08.55.21 - Accepted - runtime 221ms - memory 20.1MB.py
+42,Trapping Rain Water,Accepted,2026-10-17 08.51.49,python3,5 ms,21.3 MB,2026-10-17 08.51.49 - Accepted - runtime 5ms - memory 21.3MB.py
+11,Container With Most Water,Accepted,2026-10-17 08.47.46,python3,60 ms,29.8 MB,2026-10-17 08.47.46 - Accepted - runtime 60ms - memory 29.8MB.py
+15,3Sum,Accepted,2026-10-17 08.46.07,python3,598 ms,22.4 MB,2026-10-17 08.46.07 - Accepted - runtime 598ms - memory 22.4MB.py
+125,Valid Palindrome,Accepted,2026-10-17 08.41.49,python3,8 ms,23.5 MB,2026-10-17 08.41.49 - Accepted - runtime 8ms - memory 23.5MB.py
+152,Maximum Product Subarray,Accepted,2026-10-17 08.38.06,python3,4 ms,19.7 MB,2026-10-17 08.38.06 - Accepted - runtime 4ms - memory 19.7MB.py
+53,Maximum Subarray,Accepted,2026-10-17 08.35.47,python3,25 ms,31.5 MB,2026-10-17 08.35.47 - Accepted - runtime 25ms - memory 31.5MB.py
+238,Product of Array Except Self,Accepted,2026-10-17 08.32.41,python3,18 ms,25.3 MB,2026-10-17 08.32.41 - Accepted - runtime 18ms - memory 25.3MB.py
+217,Contains Duplicate,Accepted,2026-10-17 08.30.03,python3,11 ms,32.3 MB,2026-10-17 08.30.03 - Accepted - runtime 11ms - memory 32.3MB.py
+121,Best Time to Buy and Sell Stock,Accepted,2026-10-17 08.27.00,python3,23 ms,28.8 MB,2026-10-17 08.27.00 - Accepted - runtime 23ms - memory 28.8MB.py
+1,Two Sum,Accepted,2026-10-17 08.25.16,python3,0 ms,20.5 MB,2026-10-17 08.25.16 - Accepted - runtime 0ms - memory 20.5MB.py
+412,Fizz Buzz,Accepted,2026-02-26 14.18.51,python3,0 ms,19.6 MB,2026-02-26 14.18.51 - Accepted - runtime 0ms - memory 19.6MB.py
+231,Power of Two,Accepted,2026-02-25 14.20.16,python3,0 ms,19.4 MB,2026-02-25 14.20.16 - Accepted - runtime 0ms - memory 19.4MB.py
+69,Sqrt(x),Accepted,2026-02-25 14.05.30,python3,1 ms,19.6 MB,2026-02-25 14.05.30 - Accepted - runtime 1ms - memory 19.6MB.py
+69,Sqrt(x),Accepted,2026-02-25 14.05.13,python3,1 ms,19.6 MB,2026-02-25 14.05.13 - Accepted - runtime 1ms - memory 19.6MB.py
