@@ -97,17 +97,24 @@ I continuously practice coding challenges and update this repository with accept
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
