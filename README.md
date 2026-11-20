@@ -117,4 +117,8 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 <!---LeetCode Topics End-->
