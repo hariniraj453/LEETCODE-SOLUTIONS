@@ -77,10 +77,12 @@ I continuously practice coding challenges and update this repository with accept
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -121,4 +123,16 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
