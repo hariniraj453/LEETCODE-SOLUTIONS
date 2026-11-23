@@ -68,6 +68,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -157,4 +159,5 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
