@@ -109,6 +109,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
@@ -127,6 +128,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -154,10 +156,19 @@ I continuously practice coding challenges and update this repository with accept
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
