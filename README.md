@@ -67,6 +67,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Hash Table
@@ -74,6 +75,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +183,12 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
