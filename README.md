@@ -76,6 +76,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0018-4sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -246,6 +247,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
