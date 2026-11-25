@@ -54,10 +54,12 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Recursion
@@ -210,6 +212,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -247,4 +250,8 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
