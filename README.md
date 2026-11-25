@@ -82,6 +82,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -92,6 +93,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
@@ -188,6 +190,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -201,4 +204,12 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
