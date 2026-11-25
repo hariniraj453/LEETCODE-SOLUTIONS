@@ -63,6 +63,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
