@@ -168,6 +168,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 ## Two Pointers
@@ -251,6 +252,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
