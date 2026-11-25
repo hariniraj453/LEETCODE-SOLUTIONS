@@ -168,6 +168,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -204,6 +205,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
