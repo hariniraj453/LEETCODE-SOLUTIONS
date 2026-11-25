@@ -187,6 +187,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +252,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
