@@ -54,6 +54,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -259,4 +261,8 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
