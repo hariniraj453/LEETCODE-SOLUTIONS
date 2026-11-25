@@ -73,6 +73,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0018-4sum/) | Medium |
+| [0027-remove-element](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -174,6 +175,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0016-3sum-closest](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
