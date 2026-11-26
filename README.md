@@ -81,6 +81,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0057-insert-interval/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
