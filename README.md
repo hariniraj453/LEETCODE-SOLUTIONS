@@ -93,6 +93,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Hash Table
@@ -269,6 +270,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
