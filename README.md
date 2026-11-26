@@ -137,6 +137,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -154,6 +156,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +303,8 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
