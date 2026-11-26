@@ -96,6 +96,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0875-koko-eating-bananas](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +333,5 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
