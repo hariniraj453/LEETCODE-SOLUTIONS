@@ -80,6 +80,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0031-next-permutation](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -109,6 +110,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -313,4 +315,8 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
