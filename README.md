@@ -69,6 +69,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0342-power-of-four](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0342-power-of-four/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0342-power-of-four/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -265,6 +267,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0342-power-of-four](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0342-power-of-four/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
