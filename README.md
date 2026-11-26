@@ -62,6 +62,7 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Recursion
@@ -78,6 +79,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0027-remove-element](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
@@ -281,6 +283,7 @@ I continuously practice coding challenges and update this repository with accept
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
