@@ -68,6 +68,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0070-climbing-stairs](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
