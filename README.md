@@ -65,6 +65,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0010-regular-expression-matching](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Recursion
@@ -280,6 +281,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0029-divide-two-integers/) | Medium |
+| [0070-climbing-stairs](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0342-power-of-four](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0342-power-of-four/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -334,4 +336,8 @@ I continuously practice coding challenges and update this repository with accept
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
