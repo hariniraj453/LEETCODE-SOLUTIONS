@@ -129,6 +129,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0023-merge-k-sorted-lists](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0543-diameter-of-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Bit Manipulation
@@ -222,6 +225,7 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -340,4 +344,12 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
