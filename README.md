@@ -69,6 +69,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0189-rotate-array](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0198-house-robber/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0724-find-pivot-index/) | Easy |
@@ -186,6 +188,7 @@ I continuously practice coding challenges and update this repository with accept
 | [0102-binary-tree-level-order-traversal](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0207-course-schedule](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -354,4 +357,12 @@ I continuously practice coding challenges and update this repository with accept
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0743-network-delay-time/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/hariniraj453/LEETCODE-SOLUTIONS/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
